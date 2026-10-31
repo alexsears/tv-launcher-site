@@ -1,0 +1,11 @@
+{
+  "name": "tv-launcher-site",
+  "version": "1.0.0",
+  "description": "Sears family launcher for the living room TV (TizenBrew site module).",
+  "packageType": "mods",
+  "appName": "Sears Family",
+  "websiteURL": "https://calendar.alexsears.org/launcher",
+  "main": "mod.js",
+  "keys": [],
+  "license": "MIT"
+}
